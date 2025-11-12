@@ -1,7 +1,22 @@
 # Csci166-RL-DQN-Final-Project
 Baseline vs Variant RL agents on Atari Classic Donkey Kong using DQN
 
+## Original Base Code Pong Notebook
+<a href="https://github.com/everestso/summer25/blob/main/c166f25_02b_dqn_pong.ipynb" target="_blank">Pong</a>
+
+### Pong Documentation
+<a href="https://ale.farama.org/environments/pong/" target="_blank">Pong Docs</a>
+
 # DQN on ALE_DonkeyKong-v5
+
+## Modified BaseLine Code Donkey Kong Notebook
+<a href="https://github.com/Bat4E/Csci166-RL-DQN-Final-Project/blob/main/notebooks/DonkeyKongBaseline.ipynb" target="_blank">BaselineDK</a>
+
+## Modified Variant Code Donkey Kong Notebook
+<a href="https://github.com/Bat4E/Csci166-RL-DQN-Final-Project/blob/main/notebooks/Variant_Donkey_Kong.ipynb" target="_blank">VariantDK</a>
+
+### Donkey Kong Documentation
+<a href="https://ale.farama.org/environments/donkey_kong/" target="_blank">Donkey Kong Docs</a>
 
 ## Gameplay Videos
 
